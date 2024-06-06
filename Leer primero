@@ -1,6 +1,4 @@
-Antes de iniciar debe de darle doble click al archivo "Prueba2.sln", ya que hemos visto
-que asi se ejecuta de mejor manera el codigo, asi ya solo le debe dar al Boton de ejecutar
-en este caso de VisualStudio22 
+Para inicia el juego debe de abrir el archivo "Program.cs" y ejecutarlo, asi para que se desarrolle el juego con normalidad
 
 EN CASO DE ERROR DE AUDIO
   En el archivo pueden haber algunos problemas por la direccion de los "Archivos de Audio" ya que estan con la direccion
