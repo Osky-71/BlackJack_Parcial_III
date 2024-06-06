@@ -25,8 +25,8 @@ public class Game
         playerWins = 0;
         dealerWins = 0;
         ties = 0;
-        winSoundPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\win.wav");
-        dealerWinSoundPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\lose.wav");
+        winSoundPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\win.wav");//En caso de error actualizar la ruta
+        dealerWinSoundPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\lose.wav");//En caso de error actualizar la ruta
     }
 
     public void StartGame()
