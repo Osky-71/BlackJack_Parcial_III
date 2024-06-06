@@ -1,2 +1,2 @@
 En el archivo pueden haber algunos problemas por la direccion de los "Archivos de Audio" ya que estan con la direccion de la computadora en la que se puso el codigo, si le da error,
-solo copie la direccion en la que del archvio de audio, en los apartados del archivo "Game.cs", para que se puedan ejecutar a la perfección.
+solo copie la direccion en la que del archvio de audio, en los apartados del archivo "Game.cs" y en "Program.cs", para que se puedan ejecutar a la perfección.
