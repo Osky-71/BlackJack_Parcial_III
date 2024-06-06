@@ -1,4 +1,6 @@
-Para inicia el juego debe de abrir el archivo "Program.cs" y ejecutarlo, asi para que se desarrolle el juego con normalidad
+Para inicia el juego debe de abrir el archivo "Program.cs" y ejecutarlo, asi para que se desarrolle el juego con normalidad;
+en la ayuda del juego faltaria una la cual es la #7, si no le aparece solo presione "CTRL + S" para guardar el codigo completo
+y le saldra (eso no afecta a la funcionaldad del juego)
 
 EN CASO DE ERROR DE AUDIO
   En el archivo pueden haber algunos problemas por la direccion de los "Archivos de Audio" ya que estan con la direccion
