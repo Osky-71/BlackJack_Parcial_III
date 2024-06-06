@@ -1,0 +1,13 @@
+Antes de iniciar debe de darle doble click al archivo "Prueba2.sln", ya que hemos visto
+que asi se ejecuta de mejor manera el codigo, asi ya solo le debe dar al Boton de ejecutar
+en este caso de VisualStudio22 
+
+EN CASO DE ERROR DE AUDIO
+  En el archivo pueden haber algunos problemas por la direccion de los "Archivos de Audio" ya que estan con la direccion
+  de la computadora en la que se puso el codigo, si le da error, solo copie la direccion en la que del archvio de audio,
+  en los apartados del archivo "Game.cs" y en "Program.cs", para que se puedan ejecutar a la perfección.
+
+EQUIPO JUEGO BLACKJACK
+  Cindy Jennifer Luna Pineda U20210142
+  Oscar Adonay Garcia Zeledon U20210160
+  Yonatan Agustin Chicas Amaya U20211000
