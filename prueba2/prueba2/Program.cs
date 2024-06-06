@@ -55,6 +55,7 @@ class Program
         AnsiConsole.MarkupLine("[bold green]4.[/] Cada jugador comienza con dos cartas y puede elegir 'Hit' (pedir otra carta) o 'Stand' (quedarse con su mano actual).");
         AnsiConsole.MarkupLine("[bold green]5.[/] El crupier debe pedir cartas hasta tener al menos 17 puntos.");
         AnsiConsole.MarkupLine("[bold green]6.[/] El jugador con la puntuación más alta por debajo de 21 gana.");
+        AnsiConsole.MarkupLine("[bold green]7.[/] El jugador con las flechas (↑↓) se mueve.");
         AnsiConsole.MarkupLine("[bold green]Presiona cualquier tecla para regresar al menú...[/]");
         Console.ReadKey();
         ShowMenu();
