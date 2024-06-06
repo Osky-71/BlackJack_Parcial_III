@@ -7,7 +7,7 @@ class Program
 
     static void Main(string[] args)
     {
-        menuMusicPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\background.wav");
+        menuMusicPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\background.wav");//En caso de error actualizar la ruta
         bool exit = false;
 
         while (!exit)
