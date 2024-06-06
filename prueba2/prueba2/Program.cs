@@ -7,7 +7,7 @@ class Program
 
     static void Main(string[] args)
     {
-        menuMusicPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\background.wav");//En caso de error actualizar la ruta
+        menuMusicPlayer = new AudioPlayer("C:\\Users\\Alessandro\\source\\repos\\prueba2\\prueba2\\sounds\\background.wav");
         bool exit = false;
 
         while (!exit)
@@ -55,7 +55,7 @@ class Program
         AnsiConsole.MarkupLine("[bold green]4.[/] Cada jugador comienza con dos cartas y puede elegir 'Hit' (pedir otra carta) o 'Stand' (quedarse con su mano actual).");
         AnsiConsole.MarkupLine("[bold green]5.[/] El crupier debe pedir cartas hasta tener al menos 17 puntos.");
         AnsiConsole.MarkupLine("[bold green]6.[/] El jugador con la puntuación más alta por debajo de 21 gana.");
-        AnsiConsole.MarkupLine("[bold green]7.[/] El jugador con las flechas (arriba y abajo) se mueve.");
+        AnsiConsole.MarkupLine("[bold green]7.[/] El jugador con las Flechas (Arriba y Abajo) se mueve en la interfas.");
         AnsiConsole.MarkupLine("[bold green]Presiona cualquier tecla para regresar al menú...[/]");
         Console.ReadKey();
         ShowMenu();
